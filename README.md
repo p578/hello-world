@@ -1,3 +1,4 @@
 # hello-world
 
-This will be the readme file
+Starting to write something ... 
+... hopefully sombody else will join
